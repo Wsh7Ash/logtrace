@@ -1,0 +1,3 @@
+$ PYTHONPATH=src python3 -m logtrace.cli analyze --file examples/app.log
+Errors: 2, Warnings: 1
+[exit 0]

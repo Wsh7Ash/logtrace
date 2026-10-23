@@ -1,0 +1,5 @@
+2026-10-23T10:00:00Z INFO  service started
+2026-10-23T10:00:01Z WARN  slow query (812ms)
+2026-10-23T10:00:02Z ERROR upstream timeout
+2026-10-23T10:00:03Z INFO  retrying
+2026-10-23T10:00:04Z ERROR upstream timeout
